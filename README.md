@@ -1,4 +1,4 @@
-<title>Products Gallery App - README</title>
+
 </head>
 <body>
   <h1 style="text-align: center;">Products Gallery App</h1>
