@@ -1,7 +1,30 @@
-export default function App() {
+import React, { useState } from "react";
+import Navbar from "./components/Navbar";
+import Filters from "./components/Filters";
+import ProductGallery from "./components/ProductGallery";
+import products from "./data.json";
+
+const App = () => {
+  const [search, setSearch] = useState("");
+  const [category, setCategory] = useState("");
+  const [sort, setSort] = useState("default");
+
+  const filteredProducts = products.filter(
+    (product) =>
+      (!category || product.category === category) &&
+      product.title.toLowerCase().includes(search.toLowerCase())
+  );
+
   return (
-    <h1 className="text-3xl font-bold text-green-600">
-      Hello world!
-    </h1>
-  )
-}
+    <div className="container mx-auto">
+      <Navbar onSearch={setSearch} />
+      <Filters
+        onCategoryChange={setCategory}
+        onSortChange={setSort}
+      />
+      <ProductGallery products={filteredProducts} />
+    </div>
+  );
+};
+
+export default App;

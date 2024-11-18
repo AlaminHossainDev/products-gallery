@@ -1,0 +1,178 @@
+[
+  {
+    "image": "https://i.ibb.co/wRbgWK8/ipnone.png",
+    "title": "Apple iPhone 14 Pro Max",
+    "category": "Phone",
+    "description": "The latest flagship iPhone with a sleek design, powerful A16 Bionic chip, and ProMotion display.",
+    "price": 1299.99,
+    "rating": 4.9,
+    "brand": "Apple",
+    "launchDate": "2023-09-15",
+    "reviews": 4500
+  },
+  {
+    "image": "https://i.ibb.co/VBWQngj/oneplus.png",
+    "title": "OnePlus 11 Pro",
+    "category": "Phone",
+    "description": "A premium phone with exceptional speed and innovative features for a smooth experience.",
+    "price": 799.99,
+    "rating": 4.7,
+    "brand": "OnePlus",
+    "launchDate": "2023-06-20",
+    "reviews": 3200
+  },
+  {
+    "image": "https://i.ibb.co/cQmnpzs/pixels.webp",
+    "title": "Google Pixel 7 Pro",
+    "category": "Phone",
+    "description": "An AI-powered smartphone with advanced photography capabilities and pure Android experience.",
+    "price": 899.99,
+    "rating": 4.8,
+    "brand": "Google",
+    "launchDate": "2023-10-05",
+    "reviews": 3700
+  },
+  {
+    "image": "https://i.ibb.co/CmpkVKv/samsung-1.webp",
+    "title": "Samsung Galaxy S23 Ultra",
+    "category": "Phone",
+    "description": "The ultimate Android phone with a stunning display and powerful Snapdragon 8 Gen 2 processor.",
+    "price": 1199.99,
+    "rating": 4.8,
+    "brand": "Samsung",
+    "launchDate": "2023-02-10",
+    "reviews": 5200
+  },
+  {
+    "image": "https://i.ibb.co/VxZTXjP/Google-Pixel-8a-Aloe-300x300.webp",
+    "title": "Google Pixel 8a Aloe",
+    "category": "Phone",
+    "description": "A budget-friendly Pixel phone with excellent camera and software experience.",
+    "price": 449.99,
+    "rating": 4.5,
+    "brand": "Google",
+    "launchDate": "2023-09-15",
+    "reviews": 2100
+  },
+  {
+    "image": "https://i.ibb.co/FnYK7pd/Google-Pixel-9-Peony-300x300.webp",
+    "title": "Google Pixel 9 Peony",
+    "category": "Phone",
+    "description": "A stylish and compact phone with Google’s latest Tensor chip and advanced AI features.",
+    "price": 699.99,
+    "rating": 4.6,
+    "brand": "Google",
+    "launchDate": "2024-01-10",
+    "reviews": 2800
+  },
+  {
+    "image": "https://i.ibb.co/8B3KKvR/Google-Pixel-Watch-2-1-300x300.webp",
+    "title": "Google Pixel Watch 2",
+    "category": "Watch",
+    "description": "The perfect smartwatch companion with fitness tracking and Google Assistant integration.",
+    "price": 349.99,
+    "rating": 4.8,
+    "brand": "Google",
+    "launchDate": "2023-11-01",
+    "reviews": 1200
+  },
+  {
+    "image": "https://i.ibb.co/gJ1T6hq/Google-Pixel-Watch-3-Polished-Silver-with-Rose-Quartz-300x300.webp",
+    "title": "Google Pixel Watch 3",
+    "category": "Watch",
+    "description": "An elegant smartwatch with cutting-edge health and connectivity features.",
+    "price": 399.99,
+    "rating": 4.9,
+    "brand": "Google",
+    "launchDate": "2024-02-20",
+    "reviews": 950
+  },
+  {
+    "image": "https://i.ibb.co/NCxzbtq/Motorola-Edge-50-Jungle-Green-300x300.webp",
+    "title": "Motorola Edge 50 Jungle Green",
+    "category": "Phone",
+    "description": "A powerful device with a vibrant OLED display and fast performance.",
+    "price": 699.99,
+    "rating": 4.7,
+    "brand": "Motorola",
+    "launchDate": "2023-12-05",
+    "reviews": 1900
+  },
+  {
+    "image": "https://i.ibb.co/185QQc8/Motorola-Edge-50-Neo-Grisaille-300x300.webp",
+    "title": "Motorola Edge 50 Neo",
+    "category": "Phone",
+    "description": "A stylish smartphone with advanced camera technology and seamless multitasking.",
+    "price": 599.99,
+    "rating": 4.6,
+    "brand": "Motorola",
+    "launchDate": "2023-10-15",
+    "reviews": 1700
+  },
+  {
+    "image": "https://i.ibb.co/wcq9FDs/Samsung-Galaxy-Watch7-Cream-300x300.webp",
+    "title": "Samsung Galaxy Watch 7 Cream",
+    "category": "Watch",
+    "description": "A premium smartwatch with superior health tracking and long-lasting battery.",
+    "price": 429.99,
+    "rating": 4.8,
+    "brand": "Samsung",
+    "launchDate": "2024-01-25",
+    "reviews": 2300
+  },
+  {
+    "image": "https://i.ibb.co/z7CsN4P/Samsung-Galaxy-Z-Fold-Special-300x300.webp",
+    "title": "Samsung Galaxy Z Fold Special",
+    "category": "Phone",
+    "description": "A revolutionary foldable phone with expansive display and premium features.",
+    "price": 1799.99,
+    "rating": 4.9,
+    "brand": "Samsung",
+    "launchDate": "2024-03-15",
+    "reviews": 3200
+  },
+  {
+    "image": "https://i.ibb.co/drGrQDW/Apple-i-Phone-15-Pro-Max-Natural-Titanium-300x300.webp",
+    "title": "Apple iPhone 15 Pro Max",
+    "category": "Phone",
+    "description": "The pinnacle of iPhone technology with an advanced titanium design and A17 Pro chip.",
+    "price": 1399.99,
+    "rating": 4.9,
+    "brand": "Apple",
+    "launchDate": "2024-09-22",
+    "reviews": 4900
+  },
+  {
+    "image": "https://i.ibb.co/LkYNvHm/Motorola-Moto-G35-Leaf-Green-1-300x300.webp",
+    "title": "Motorola Moto G35 Leaf Green",
+    "category": "Phone",
+    "description": "A budget smartphone offering reliable performance and a stunning design.",
+    "price": 399.99,
+    "rating": 4.4,
+    "brand": "Motorola",
+    "launchDate": "2024-01-20",
+    "reviews": 800
+  },
+  {
+    "image": "https://i.ibb.co/g30KdjR/One-Plus-Watch-2-R-Gunmetal-Gray-300x300.webp",
+    "title": "OnePlus Watch 2 Gunmetal Gray",
+    "category": "Watch",
+    "description": "A stylish smartwatch with accurate fitness tracking and smooth connectivity.",
+    "price": 299.99,
+    "rating": 4.6,
+    "brand": "OnePlus",
+    "launchDate": "2023-12-15",
+    "reviews": 1500
+  },
+  {
+    "image": "https://i.ibb.co/Vx5R96V/Google-Pixel-6-Pro-Cloudy-White-300x300.jpg",
+    "title": "Google Pixel 6 Pro Cloudy White",
+    "category": "Phone",
+    "description": "A high-performance smartphone with innovative AI features and a brilliant display.",
+    "price": 849.99,
+    "rating": 4.8,
+    "brand": "Google",
+    "launchDate": "2023-07-05",
+    "reviews": 4100
+  }
+]
