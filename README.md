@@ -1,43 +1,32 @@
-Products Gallery App
-Welcome to the Products Gallery App, a modern, responsive web application showcasing a collection of products with filtering, sorting, and search functionalities.
+<title>Products Gallery App - README</title>
+</head>
+<body>
+  <h1 style="text-align: center;">Products Gallery App</h1>
 
-Live Demo
-👉 Products Gallery App
+  <p>Welcome to the <strong>Products Gallery App</strong>, a modern, responsive web application showcasing a collection of products with filtering, sorting, and search functionalities.</p>
 
-Features
-Dynamic Product Listing: Displays products with images, prices, categories, and ratings.
-Filter by Category: Narrow down products by selecting a specific category (e.g., Phone, Watch).
-Sort Products: Sort items by price (low-to-high or high-to-low).
-Search Functionality: Search products by name in real time.
-Responsive Design: Fully responsive layout optimized for desktop, tablet, and mobile devices.
-"View Details" Button: Opens a modal with additional product information (e.g., description, ratings).
-Tech Stack
-Frontend: React.js
-Styling: Tailwind CSS
-Hosting: Vercel
-Installation
-Clone the repository:
+  <h2>Live Demo</h2>
+  <p>👉 <a href="https://products-gallery-mauve.vercel.app/" target="_blank">Products Gallery App</a></p>
 
-bash
-Copy code
-git clone https://github.com/your-username/products-gallery.git  
-Navigate to the project directory:
+  <hr />
 
-bash
-Copy code
-cd products-gallery  
-Install dependencies:
+  <h2>Features</h2>
+  <ul>
+    <li><strong>Dynamic Product Listing:</strong> Displays products with images, prices, categories, and ratings.</li>
+    <li><strong>Filter by Category:</strong> Narrow down products by selecting a specific category (e.g., Phone, Watch).</li>
+    <li><strong>Sort Products:</strong> Sort items by price (low-to-high or high-to-low).</li>
+    <li><strong>Search Functionality:</strong> Search products by name in real time.</li>
+    <li><strong>Responsive Design:</strong> Fully responsive layout optimized for desktop, tablet, and mobile devices.</li>
+    <li><strong>"View Details" Button:</strong> Opens a modal with additional product information (e.g., description, ratings).</li>
+  </ul>
 
-bash
-Copy code
-npm install  
-Start the development server:
+  <hr />
 
-bash
-Copy code
-npm start  
-Open your browser and visit:
+  <h2>Tech Stack</h2>
+  <ul>
+    <li><strong>Frontend:</strong> React.js</li>
+    <li><strong>Styling:</strong> Tailwind CSS</li>
+    <li><strong>Hosting:</strong> Vercel</li>
+  </ul>
 
-arduino
-Copy code
-http://localhost:3000  
+  <hr />
